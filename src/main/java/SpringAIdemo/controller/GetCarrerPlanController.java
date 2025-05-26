@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://career-planner-app-8305041adb2a.herokuapp.com/")
 @RestController
 public class GetCarrerPlanController {
 
